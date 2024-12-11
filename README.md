@@ -27,8 +27,7 @@ Here is my Pytorch project source code for training an agent to play super mario
 </p>
 
 ## How to use the code
-
-With my code, you can:
+Two files to carry out the execution
 * **Train your model** by running **python train.py**
 * **Test your trained model** by running **python test.py**
 
